@@ -6,54 +6,57 @@ Predict whether a passenger survived the Titanic disaster using machine learning
 
 ## **Dataset**
 
-Dataset: Kaggle Titanic Competition dataset
-Training samples: 891 passengers
+### Dataset: Kaggle Titanic Competition dataset
+
+### Training samples: 891 passengers
 
 ### **Steps Performed**
 
--Data exploration and understanding
+- Data exploration and understanding
 
--Missing value handling
+- Missing value handling
 
--Feature selection
+- Feature selection
 
--Categorical encoding
+- Categorical encoding
 
--Feature engineering
+- Feature engineering
 
--Model training and evaluation
+- Model training and evaluation
 
--Data Preprocessing
+- Data Preprocessing
 
--Filled missing Age values using the median.
+- Filled missing Age values using the median.
 
--Filled missing Embarked values using the mode.
+- Filled missing Embarked values using the mode.
 
--Dropped Cabin because most values were missing.
+- Dropped Cabin because most values were missing.
 
--Encoded categorical variables into numerical values.
+- Encoded categorical variables into numerical values.
 
--Feature Engineering
+- Feature Engineering
 
 ### **Created:**
--FamilySize
 
--IsAlone
+- FamilySize
+
+- IsAlone
 
 ### **Features Used**
--Pclass
 
--Sex
+- Pclass
 
--Age
+- Sex
 
--Fare
+- Age
 
--Embarked
+- Fare
 
--FamilySize
+- Embarked
 
--IsAlone
+- FamilySize
+
+- IsAlone
 
 # Model
 
@@ -65,13 +68,13 @@ Random Forest Classifier
 
 **5-fold cross-validation accuracy: 80.9%**
 
-###**Key Learning Outcomes**
+### **Key Learning Outcomes**
 
--Handling missing values
+- Handling missing values
 
--Feature engineering
+- Feature engineering
 
--Cross-validation
+- Cross-validation
 
 -Model evaluation
 
