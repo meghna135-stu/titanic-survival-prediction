@@ -76,9 +76,9 @@ Random Forest Classifier
 
 - Cross-validation
 
--Model evaluation
+- Model evaluation
 
--Feature importance analysis
+- Feature importance analysis
 
 -Cross-validation
 Feature importance analysis
